@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "Ronald190899.github.io/tictactoe/static/css/main.3fa7586b.chunk.css",
+    "main.js": "Ronald190899.github.io/tictactoe/static/js/main.0ac6f443.chunk.js",
+    "main.js.map": "Ronald190899.github.io/tictactoe/static/js/main.0ac6f443.chunk.js.map",
+    "runtime-main.js": "Ronald190899.github.io/tictactoe/static/js/runtime-main.1069ddcc.js",
+    "runtime-main.js.map": "Ronald190899.github.io/tictactoe/static/js/runtime-main.1069ddcc.js.map",
+    "static/js/2.52dd166e.chunk.js": "Ronald190899.github.io/tictactoe/static/js/2.52dd166e.chunk.js",
+    "static/js/2.52dd166e.chunk.js.map": "Ronald190899.github.io/tictactoe/static/js/2.52dd166e.chunk.js.map",
+    "index.html": "Ronald190899.github.io/tictactoe/index.html",
+    "precache-manifest.ef5b9be1a69b94d81a5bd38e56b3f474.js": "Ronald190899.github.io/tictactoe/precache-manifest.ef5b9be1a69b94d81a5bd38e56b3f474.js",
+    "service-worker.js": "Ronald190899.github.io/tictactoe/service-worker.js",
+    "static/css/main.3fa7586b.chunk.css.map": "Ronald190899.github.io/tictactoe/static/css/main.3fa7586b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1069ddcc.js",
+    "static/js/2.52dd166e.chunk.js",
+    "static/css/main.3fa7586b.chunk.css",
+    "static/js/main.0ac6f443.chunk.js"
+  ]
+}
